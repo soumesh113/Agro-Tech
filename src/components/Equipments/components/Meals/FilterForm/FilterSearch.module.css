@@ -1,0 +1,20 @@
+.inputValue{
+    width: 60%;
+    font-size: 1.5rem;
+    padding: 0.7rem;
+    border-radius: 0.7rem;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    margin-right: 2rem;
+}
+
+.submitSearch{
+    font-size: 1.5rem;
+    padding: 0.7rem;
+    border-radius: 1rem;
+    background-color: #8a2b06;
+    width: 30%;
+    color: white;
+    border: none;
+
+}

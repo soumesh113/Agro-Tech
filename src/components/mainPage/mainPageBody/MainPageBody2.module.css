@@ -1,0 +1,65 @@
+.column {
+    float: left;
+    width: 30%;
+    padding: 2% 10px;
+  
+  }
+  .row {margin: 0 -5px;}
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding: 16px;
+    text-align: center;
+    background-color: white;
+    font-size: 1.2rem;
+
+  }
+  .card2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding: 16px;
+    text-align: center;
+    background-image: linear-gradient(to right top, #1ae746, #55e83a, #76ea2d, #90ea20, #a8eb12);
+    font-size: 1.2rem;
+  }
+  .icon{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .Arrow{
+    padding: 1.4rem;
+    border-radius: 50%;
+    font-size: 2rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    color:slategray;
+    border: none;
+  }
+  @keyframes slide-in-left {
+    from {
+      left: -100%;
+    }
+    to {
+      left: 0;
+    }
+  }
+  @keyframes slide-in-right{
+    from {
+      right: -100%;
+    }
+    to {
+      right: 0;
+    }
+  }
+  @media screen and (max-width: 860px) {
+    .column{
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }

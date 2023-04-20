@@ -1,0 +1,68 @@
+.main{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #fff;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3rem;
+    margin-bottom : 3rem;   
+  }
+  .card2{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #fff;
+    width:25%;
+    float: left;
+  }
+  .content{
+    margin-bottom: 2rem;
+  }
+ 
+  .img{
+    width:100%;
+    border-radius: 1rem;
+  }
+  .title{
+    font-size: 3.5rem;
+    padding-left: 5%;
+    padding-bottom: 2rem;
+    padding-top: 1rem;
+    font-style: Bold;
+  }
+  .text{
+    font-size: 1.2rem;
+    padding-left: 5%;
+    padding-top: 0.1rem;
+    font-style:normal ;
+    color: slategray;
+  }
+
+  .properties{
+    width: 25%; 
+    float: left;
+  }
+
+  .value{
+    font-size: 3rem;
+    color: #40B555;
+    font-style: bold;
+  }
+  
+
+  .description{
+    color: slategray;
+    font-style: bold;
+    font-size: 2rem;
+  }
+
+  .componentFooter{
+    margin-top: 2rem;
+    margin-bottom :2rem;
+  }

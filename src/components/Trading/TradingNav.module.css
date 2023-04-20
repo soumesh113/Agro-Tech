@@ -1,0 +1,16 @@
+.btn{
+    padding: 1rem;
+    font-size: 1.5rem;
+    color:white;
+    background-color: #40B555;
+    border:none;
+    border-radius: 0.7rem;
+    margin-left:10%;
+    margin-right: 10%;
+}
+.btn:hover{
+    color:#c6d520
+}
+.line{
+    color:#40B555;
+}

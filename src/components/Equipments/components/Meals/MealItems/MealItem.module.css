@@ -1,0 +1,54 @@
+.img{
+  width:90%;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.meal {
+    display: flex;
+    justify-content: space-between;
+    margin: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .meal h3 {
+    margin: 0 0 0.25rem 0;
+  }
+  
+  .description {
+    font-style: italic;
+  }
+  
+  .price {
+    margin-top: 0.25rem;
+    font-weight: bold;
+    color: #ad5502;
+    font-size: 1.25rem;
+  }
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #f1f1f1;
+  }
+  .column {
+    float: left;
+    width: 33%;
+    padding: 0 10px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+  .row {margin: 0 -5px;}
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  @media screen and (max-width: 700px) {
+   
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }

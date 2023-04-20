@@ -1,0 +1,33 @@
+.navComponent{
+    background-color:#40B554;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:white;
+}
+.navElement{
+    padding-left: 1rem;
+    padding-right: 1rem;
+
+}
+.navIcon{
+    padding-left: 0.5 rem;
+    padding-right: 0.5 rem;
+
+}
+.Icons_{
+    border-radius: 50%;
+    background-color: white;
+     padding: 10px;
+     color:#40B554;
+     margin-left: 1rem;
+     margin-bottom: 1rem;
+}
+.Icons_:hover{
+    border-radius: 50%;
+    background-color: #40B554;
+    color:white;
+     padding: 10px;
+}
+.Icon_container{
+    margin-left: 20%;
+}

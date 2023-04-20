@@ -1,0 +1,29 @@
+.toggle{
+    background-color: white;
+    color:green;
+    font-size: 2rem;
+    border: none;
+    padding-left: 20%;
+}
+.toggle2{
+    background-color: white;
+    color:green;
+    font-size: 2rem;
+    border: none;
+}
+.toggleContent div{
+    font-size:1.5rem;
+}
+.getStarted{
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #40B554;
+    font-size: 1.5rem;
+    color:white;
+}
+.logo{
+    width:20%;
+}

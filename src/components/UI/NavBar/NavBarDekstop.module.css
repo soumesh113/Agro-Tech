@@ -1,0 +1,25 @@
+
+.logo{
+    width:10%;
+    padding-top: 1rem;
+}
+.NavOptions{
+    margin-left:10%; 
+}
+.NavOptions a{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.3rem;
+    padding-right: 0.3rem;
+    font-size:1.5rem;
+}
+.NavOptions button{
+    padding: 1rem;
+    border-radius: 1rem;
+    border: none;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color: #40B554;
+    font-size: 1.5rem;
+    color:white;
+}

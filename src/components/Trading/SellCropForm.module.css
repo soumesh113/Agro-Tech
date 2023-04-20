@@ -1,0 +1,69 @@
+
+.heading{
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 1rem;
+}
+
+.content{
+    font-size: 1.5rem;
+}
+
+
+.login{
+    font-size: 1.5rem;
+    padding: 0.2rem;
+    border:none;
+    color:#40B554;
+    background-color: #fff;
+}
+
+.card {
+    
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color:#CFFDE1;
+    margin-right: -2rem;
+    margin-top:-3rem;
+    margin-left: 1.5rem;
+    margin-bottom:1.5rem;
+
+  }
+  .card1 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    padding: 16px;
+    text-align: center;
+    background-color: #40B554;
+    margin-bottom: 2rem;
+    margin-right: 4rem;
+    margin-top: 4rem;
+  }
+  
+  .left{
+    font-size: 1.5rem;
+    padding: 0.3rem;
+    border-radius: 0.6rem;
+    margin-right: 35%;
+    width:30%;
+    border:none;
+    background-color: #40B554;
+    color: white;
+  }
+  .right{
+    font-size: 1.5rem;
+    padding: 0.3rem;
+    border-radius: 0.6rem;
+    width:30%;
+    border:none;
+    background-color: #40B554;
+    color:white
+  }
+  .left:hover{
+    background-color: #e8f319;
+    color:black;
+  }
+  .right:hover{
+    background-color: #e8f319;
+    color: black;
+  }

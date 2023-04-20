@@ -1,0 +1,48 @@
+.column1 {
+    float: left;
+    width: 60%;
+    padding: 0 10px;
+    animation: slide-in-left 20s ease forwards;
+  }
+  .column2 {
+    float: left;
+    width: 40%;
+    padding: 0 0px;
+    animation: slide-in-right 20s ease forwards;
+  }
+  .row {margin: 0 -5px;}
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  @media screen and (max-width: 860px) {
+    .column1 {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+    .column2 {
+        width: 100%;
+        display: block;
+        margin-bottom: 20px;
+      }
+  }
+
+  @keyframes slide-in-left {
+    from {
+      left: -100%;
+    }
+    to {
+      left: 0;
+    }
+  }
+  @keyframes slide-in-right{
+    from {
+      right: -100%;
+    }
+    to {
+      right: 0;
+    }
+  }

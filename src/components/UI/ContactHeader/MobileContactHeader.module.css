@@ -1,0 +1,14 @@
+.navComponent{
+    background-color:#40B554;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color:white;
+}
+.navElement{
+    padding-left: 1rem;
+    padding-right: 4rem;
+}
+.navIcon{
+    padding-left: 0.5 rem;
+    padding-right: 0.5 rem;
+}
