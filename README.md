@@ -4,10 +4,10 @@ SELECTED THEME: agro-tech
 
 Team Members:
 
-Name: Vansh Agarwal Phone: 7906548043 Github: VanshAgarwal12113097
-Name: Soumesh Khare Phone: 9450459555 Github: soumesh113
-Name: Nayan Kumar Phone: 8982713015 Github: techoverflow360
-Name: Rohit Chopra Phone: 9478288250 Github: RohitChopra435
+Name: Vansh Agarwal, Phone: 7906548043, Github: VanshAgarwal12113097
+Name: Soumesh Khare, Phone: 9450459555, Github: soumesh113
+Name: Nayan Kumar, Phone: 8982713015, Github: techoverflow360
+Name: Rohit Chopra, Phone: 9478288250, Github: RohitChopra435
 Tech Stack: HTML, CSS, Javascript, Nodejs, Reactjs, Python, ML, Flask, MongoDB
 
 College: NIT Kurukshetra
