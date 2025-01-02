@@ -1,21 +1,3 @@
-GEEKS FOR GEEKS SOLVING FOR INDIA HACKATHON
-
-SELECTED THEME: agro-tech
-
-Team Members:
-
-Name: Vansh Agarwal, Phone: 7906548043, Github: VanshAgarwal12113097
-
-Name: Soumesh Khare, Phone: 9450459555, Github: soumesh113
-
-Name: Nayan Kumar, Phone: 8982713015, Github: techoverflow360
-
-Name: Rohit Chopra, Phone: 9478288250, Github: RohitChopra435
-
-Tech Stack: HTML, CSS, Javascript, Nodejs, Reactjs, Python, ML, Flask, MongoDB
-
-College: NIT Kurukshetra
-
 Farming and Agriculture are some of the most important industries in India, especially keeping in mind the fast growing population in our nation. However, inspite of this, farmers throughout the nation are suffering from poverty and they get exploited on a daily basis by many wholesellers and middle-men. Moreover, due to outdated knowledge, farmers are not able to keep up with the newest growing practices and conditions for crops. Thus in order to help relieve farmers of such problems, we have created this website, which will help farmers to know which crops they should be growing according to their conditions, the fertilizers they should be using, and it will also enable them to directly and easily buy and trade farming equipment with other farmers, as well as crops, without any middle men deceiving them.
 
 Firstly, in order to use our features, users will need to sign up, and then login to our website by filling forms respectively.
